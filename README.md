@@ -18,26 +18,26 @@
 
 
 ####
-+--------------------+
-| Database           |
-+--------------------+
-| flaskapp           |
-| information_schema |
-| mysql              |
-| performance_schema |
-| sys                |
++--------------------+  
+| Database           |   
++--------------------+   
+| flaskapp           |  
+| information_schema |  
+| mysql              |   
+| performance_schema |   
+| sys                |   
++--------------------+   
+  
++--------------------+  
+| Tables_in_flaskapp |   
++--------------------+  
+| users              |   
 +--------------------+
 
-+--------------------+
-| Tables_in_flaskapp |
-+--------------------+
-| users              |
-+--------------------+
-
-+-----------+---------------------+
-| name      | email               |
-+-----------+---------------------+
-| asda      | asd@ad              |
-| taixingbi | taixingbi@gmail.com |
-| hunter    | hunter@hotmail.com  |
-+-----------+---------------------+
++-----------+---------------------+  
+| name      | email               |   
++-----------+---------------------+   
+| asda      | asd@ad              |   
+| taixingbi | taixingbi@gmail.com |   
+| hunter    | hunter@hotmail.com  |  
++-----------+---------------------+  
